@@ -1,4 +1,6 @@
-# Vite +  Vue 3 + TypeScript + VueRouter +  Pinia + Arco Design
+# {{projectName}}
+
+{{description}}
 
 ### Frameworks
 
